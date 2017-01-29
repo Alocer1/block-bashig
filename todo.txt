@@ -1,0 +1,13 @@
+create cube dection, bounce back
+Make bullets disapear once a target has been hit. 
+rename variables to Hero and Villian.
+fix the end game, when health = 0 reset. 
+slow down rate of fire of bullets
+Module the game / webpack
+
+
+sort FPS.
+pvp with node / sockets
+host on a server
+
+
